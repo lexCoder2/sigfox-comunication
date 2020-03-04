@@ -1,0 +1,23 @@
+{
+  "name": "sigfox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexCoder2/sigfox-comunication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexCoder2/sigfox-comunication/issues"
+  },
+  "homepage": "https://github.com/lexCoder2/sigfox-comunication#readme"
+}
